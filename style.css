@@ -1,0 +1,15 @@
+* {
+    background-color: grey;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    margin-top: 25%;
+    margin-left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.lasagna {
+    text-align: center;
+}
