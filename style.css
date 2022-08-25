@@ -1,8 +1,7 @@
 * {
     background-color: grey;
 }
-
-h1 {
+#recipe-page {
     text-align: center;
     color: white;
     margin-top: 25%;
@@ -10,6 +9,8 @@ h1 {
     transform: translate(-50%, -50%);
 }
 
-.lasagna {
+.lasagna-link {
     text-align: center;
 }
+
+
